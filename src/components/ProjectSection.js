@@ -29,7 +29,7 @@ const projects = [
     title: "Event planner",
     id: 4,
     description:
-      "A mobile application for leisure seekers to discover unique events and activities in their city with a few taps",
+      "A mobile application for leisure seekers to discover unique events and activities in their city with a few taps. Try it out!",
     getImageSrc: () => require("../images/photo4.jpg"),
   },
 ];
