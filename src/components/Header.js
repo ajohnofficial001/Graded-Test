@@ -20,7 +20,7 @@ const socials = [
   },
   {
     icon: faLinkedin,
-    url: "https://www.linkedin.com/in/john-adeyemo-5a0338207/",
+    url: "https://www.linkedin.com/",
   },
   {
     icon: faMedium,
